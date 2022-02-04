@@ -1,7 +1,5 @@
 # Sobre
 
-Mais um desafio realizado para o site Frontend Mentor
-
 Nesse projeto desenvolvi um countdown no qual o próprio usuário pode controlar o tempo e a velocidade desejados através das seguintes linhas de comando no arquivo JS:
 
 - let dias = 1; (escolhe os dias)
